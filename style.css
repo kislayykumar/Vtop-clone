@@ -1,0 +1,401 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.college-info{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background: linear-gradient(130deg, rgba(36, 85, 163, 1) 23%, rgba(52, 151, 219, 1) 52%, rgba(52, 142, 219, 1) 58%, rgba(52, 131, 219, 1) 65%, rgba(40, 116, 166, 1) 74%);
+    width: 100vw;
+    height: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.college-logo{
+    padding: 8px;
+}
+
+.college-logo img{
+    width: 35px;
+    height: 35px;
+}
+
+.college-name{
+    color: #ffffff;
+    padding-left: 10px;
+    font-size: 1.75em;
+    font-weight: 600;
+}
+
+.college-campus{
+    color: #ffffff;
+    padding-left: 10px;
+}
+
+.heading{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.top-heading p{
+    color: rgb(23,108,184);
+    text-align: center;
+    font-weight: 700;
+    font-size: 28px;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.sub-head p{
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+}
+
+.card-box{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    gap: 10px;
+    justify-content: space-around;
+}
+
+.card-property-student-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 25px;
+    padding-right: 0px;
+    background-color: #ffffff;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    border-radius: 10px;
+    width: 20%;
+    height: 100px;
+    border-width: 3px 0px 0px 0px;
+    border-style: solid;
+    border-color: rgb(60, 141, 188);
+}
+
+.student-info{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 80px;
+}
+
+.student-enter{
+    font-size: 30px;
+}
+
+.student-enter p a{
+    text-decoration: none;
+}
+
+.student-name{
+    color: #0d6efd;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.student-image img{
+    width: 70px;
+    height: 70px;
+    padding-left: 30px;
+}
+
+
+
+.card-property-employee-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 0px;
+    background-color: #ffffff;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    border-radius: 10px;
+    width: 20%;
+    height: 100px;
+    border-width: 3px 0px 0px 0px;
+    border-style: solid;
+    border-color: rgb(212, 172, 13);
+}
+.employee-info{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 80px;
+}
+
+.employee-enter{
+    font-size: 30px;
+}
+
+.employee-name{
+    color: rgb(212, 172, 13);
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.employee-image img{
+    width: 70px;
+    height: 70px;
+    padding-left: 30px;
+}
+
+
+.card-property-parent-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 0px;
+    background-color: #ffffff;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    border-radius: 10px;
+    width: 20%;
+    height: 100px;
+    border-width: 3px 0px 0px 0px;
+    border-style: solid;
+    border-color: #18ad4c;
+}
+.parent-info{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 80px;
+}
+
+.parent-enter{
+    font-size: 30px;
+}
+
+.parent-name{
+    color: #18ad4c;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.parent-image img{
+    width: 70px;
+    height: 70px;
+    padding-left: 30px;
+}
+
+
+.card-property-Alumni-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 0px;
+    background-color: #ffffff;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    border-radius: 10px;
+    width: 20%;
+    height: 100px;
+    border-width: 3px 0px 0px 0px;
+    border-style: solid;
+    border-color: rgb( 93, 173, 226 );
+}
+.Alumni-info{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 80px;
+}
+
+.Alumni-enter{
+    font-size: 30px;
+}
+
+.Alumni-name{
+    color: rgb( 93, 173, 226 );
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.Alumni-image img{
+    width: 70px;
+    height: 70px;
+    padding-left: 30px;
+}
+
+
+.main-link{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+
+.main-sublink1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 47%;
+    height: 350px;
+    border-width: 3px 0px 0px 0px;
+    border-style: solid;
+    border-color: rgb(108, 36, 5);
+    border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+}
+.main-sublink1-upper{
+    background-color: rgba(0,0,0,.03);
+    height: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-left: 15px;
+}
+.main-sublink1-upper p{
+    color: rgb(144, 12, 63);
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.2;
+}
+.main-sublink1-lower{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    height: 83%;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.main-sublink1-lower-link1{
+    display: flex;
+    justify-content: stretch;
+    gap: 5px;
+}
+
+.main-sublink1-lower-link2{
+    display: flex;
+    gap: 5px;
+    justify-content: stretch;
+}
+
+.main-sublink1-lower-link3{
+    display: flex;
+    gap: 5px;
+    justify-content: stretch;
+}
+
+.main-sublink1-lower-link4{
+    display: flex;
+    gap: 5px;
+    justify-content: stretch;
+}
+
+.main-sublink1-lower-link5{
+    display: flex;
+    gap: 5px;
+    justify-content: stretch;
+}
+
+.main-sublink1-lower-link1-left{
+    padding-left: 20px;
+}
+
+.main-sublink1-lower-link1-right{
+    color: rgb(33,37,41);
+}
+
+
+
+.main-sublink2{
+    display: flex;
+    flex-direction: column;
+    width: 47%;
+    height: 150px;
+    border-width: 3px 0px 0px 0px;
+    border-style: solid;
+    border-color: rgb(108, 36, 5);
+    border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+}
+
+.main-sublink2-upper{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0,0,0,.03);
+    height: 30%;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+}
+.more p{
+    padding-right: 7px;
+}
+
+.main-sublink2-upper p{
+    color: rgb(144, 12, 63);
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.2;
+}
+.main-sublink2-lower{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    height: 83%;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding-top: 20px;
+}
+
+.main-sublink2-lower-link1{
+    display: flex;
+    justify-content: stretch;
+    gap: 5px;
+}
+
+.main-sublink2-lower-link2{
+    display: flex;
+    gap: 5px;
+    justify-content: stretch;
+}
+
+.main-sublink2-lower-link3{
+    display: flex;
+    gap: 5px;
+    justify-content: stretch;
+}
+
+.main-sublink2-lower-link4{
+    display: flex;
+    gap: 5px;
+    justify-content: stretch;
+}
+
+.main-sublink2-lower-link5{
+    display: flex;
+    gap: 5px;
+    justify-content: stretch;
+}
+
+.main-sublink2-lower-link1-left{
+    padding-left: 20px;
+}
+
+.main-sublink2-lower-link1-right p a{
+    color: rgb(33,37,41);
+}
