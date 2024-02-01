@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="assets/asset 8.jpeg">
+    <title>VIT Vellore - VTOP</title>
+</head>
+<body>
+ 
+    <nav>
+        <div class="college-info">
+            <div class="college-logo">
+                <img src="assets/asset 0.png" alt="">
+            </div>
+            <div class="college-name">VIT</div>
+            <div class="college-campus">(Vellore Campus)</div>
+        </div>
+    </nav>
+
+
+    <header>
+        <div class="heading">
+            <div class="top-heading">
+                <p>VTOP translates to "VIT on TOP"</p>
+            </div>
+
+            <div class="sub-head">
+                <p>A digital initiative by the facilitating Faculty, Staff, Student,Parents and Alumni to access and process Academics, Research,</p>
+                <p>Supporting services at one common platform.</p>
+            </div>
+        </div>
+    </header>
+
+    <div class="card-box">
+        <div class="card-property-student-card">
+            <div class="student-image">
+                <img src="assets/asset 1.png" alt="Student">
+            </div>
+            <div class="student-info">
+                <div class="student-name">Student</div>
+                <div class="student-entrylogo">
+                    <div class="student-enter">
+                        <p><a href="https://vtop.vit.ac.in/vtop/login">➡️</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="card-property-employee-card">
+            <div class="employee-image">
+                <img src="assets/asset 2.png" alt="Student">
+            </div>
+            <div class="employee-info">
+                <div class="employee-name">Employee</div>
+                <div class="employee-entrylogo">
+                    <div class="employee-enter">
+                        <p>➡️</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="card-property-parent-card">
+            <div class="parent-image">
+                <img src="assets/asset 3.png" alt="parent">
+            </div>
+            <div class="parent-info">
+                <div class="parent-name">Parent</div>
+                <div class="parent-entrylogo">
+                    <div class="parent-enter">
+                        <p>➡️</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="card-property-Alumni-card">
+            <div class="Alumni-image">
+                <img src="assets/asset 4.png" alt="Alumni">
+            </div>
+            <div class="Alumni-info">
+                <div class="Alumni-name">Alumni</div>
+                <div class="Alumni-entrylogo">
+                    <div class="Alumni-enter">
+                        <p>➡️</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <main>
+        <div class="main-link">
+            <div class="main-sublink1">
+                <div class="main-sublink1-upper">
+                    <p>Vellore Institute of Technology (VIT), India</p>
+                </div>
+                <div class="main-sublink1-lower">
+
+                    <div class="main-sublink1-lower-link1">
+                        <div class="main-sublink1-lower-link1-left">
+                            <p>🛡️</p>
+                        </div>
+                        <div class="main-sublink1-lower-link1-right">
+                            <p>Ranked among the top 601-700 Universities of the world and one among the top 3 Institutions in India</p>
+                            <p> (Shanghai ARWU Ranking 2022)</p>
+                            <hr>
+                        </div>
+                    </div>
+
+
+                    <div class="main-sublink1-lower-link2">
+                        <div class="main-sublink1-lower-link1-left">
+                            <p>🛡️</p>
+                        </div>
+                        <div class="main-sublink1-lower-link1-right">
+                            <p>The 8th best University, the 11th best research institution and the 11th best engineering institution in India</p>
+                            <p>(NIRF Ranking, Govt. of India 2023)</p>
+                            <hr>
+                        </div>
+                    </div>
+
+
+                    <div class="main-sublink1-lower-link3">
+                        <div class="main-sublink1-lower-link1-left">
+                            <p>🛡️</p>
+                        </div>
+                        <div class="main-sublink1-lower-link1-right">
+                            <p>Engineering and Technology subject areas of VIT are the 240th best in the World and the 9th best in India,</p>
+                            <p>eight subjects of VIT are within the top 500 in the world (as per QS World University Rankings by Subject)</p>
+                            <p>2023</p>
+                            <hr>
+                        </div>
+                    </div>
+
+
+                    <div class="main-sublink1-lower-link4">
+                        <div class="main-sublink1-lower-link1-left">
+                            <p>🛡️</p>
+                        </div>
+                        <div class="main-sublink1-lower-link1-right">
+                            <p>NAAC Accreditation with A++ grade (3.66 out of 4) </p>
+                            <hr>
+                        </div>
+                    </div>
+
+                    <div class="main-sublink1-lower-link5">
+                        <div class="main-sublink1-lower-link1-left">
+                            <p>🛡️</p>
+                        </div>
+                        <div class="main-sublink1-lower-link1-right">
+                            <p>Ranked within the top 200 Universities in Asia (QS - Asia University Rankings 2023) </p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="main-sublink2">
+                <div class="main-sublink2-upper">
+                    <div class="spotlight">
+                        <p>Spotlight</p>
+                    </div>
+                    <div class="more">
+                        <p>More...</p>
+                    </div>
+                    
+                </div>
+                <div class="main-sublink2-lower">
+
+                    <div class="main-sublink2-lower-link1">
+                        <div class="main-sublink2-lower-link1-left">
+                            <p>⚡</p>
+                        </div>
+                        <div class="main-sublink2-lower-link1-right">
+                            <p><a href="#">HOSTEL VACATING CONSENT FORM</a></p>
+                            <hr>
+                        </div>
+                    </div>
+
+
+                    <div class="main-sublink2-lower-link2">
+                        <div class="main-sublink2-lower-link1-left">
+                            <p>⚡</p>
+                        </div>
+                        <div class="main-sublink2-lower-link1-right">
+                            <p><a href="#">ISSUE FACED IN ACCESSING VTOP FOR JIO USERS?</a></p>
+                            <hr>
+                        </div>
+                    </div>
+
+
+                    <div class="main-sublink2-lower-link3">
+                        <div class="main-sublink2-lower-link1-left">
+                            <p>⚡</p>
+                        </div>
+                        <div class="main-sublink2-lower-link1-right">
+                            <p><a href="#">STUDENT CODE OF CONDUCT : WARNING NOTICE</a></p>
+                            <hr>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+
+    
+</body>
+</html>
